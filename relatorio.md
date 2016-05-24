@@ -92,23 +92,23 @@ A partir da cruza destas várias fontes, foram selecionados os veículos mais re
 
 | Montadora     | Modelo      |
 | ------------- | ----------- |
-| audi          | q3          |
-| chery         | tiggo       |
-| chevrolet     | tracker     |
-| citroën       | aircross    |
-| dodge         | journey     |
-| ford          | ecosport    |
-| honda         | hr-v        |
-| hyundai       | ix35        |
-| jac           | t6          |
-| jeep          | renegade    |
-| kia           | sportage    |
-| lifan         | x60         |
-| mercedes-benz | gla         |
-| mitsubishi    | pajero      |
-| peugeot       | 2008        |
-| range-rover   | evoque      |
-| renault       | duster      |
-| suzuki        | gran vitara |
-| toyota        | sw4         |
-| troller       | t4          |
+| Audi          | Q3          |
+| Chery         | Tiggo       |
+| Chevrolet     | Tracker     |
+| Citroën       | Aircross    |
+| Dodge         | Journey     |
+| Ford          | Ecosport    |
+| Honda         | HR-V        |
+| Hyundai       | IX35        |
+| JAC           | T6          |
+| Jeep          | Renegade    |
+| KIA           | Sportage    |
+| Lifan         | X60         |
+| Mercedes-Benz | GLA         |
+| Mitsubishi    | Pajero      |
+| Peugeot       | 2008        |
+| Range Rover   | Evoque      |
+| Renault       | Duster      |
+| Suzuki        | Gran Vitara |
+| Toyota        | SW4         |
+| Troller       | T4          |
