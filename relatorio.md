@@ -23,34 +23,34 @@ http://exame.abril.com.br/seu-dinheiro/noticias/os-precos-dos-20-carros-suv-mais
 * Hyundai Tucson
 * Hyundai ix35
 * Mitsubishi ASX
-8 Chevrolet Tracker
+* Chevrolet Tracker
 * Mitsubishi Pajero
 * Kia Sportage
- Mitsubish Outlander
+* Mitsubish Outlander
 * Toyota Hilux
-8 Citroën Aircross
+* Citroën Aircross
 * Toyota RAV4
 * Dodge Journey
 
 http://exame.abril.com.br//seu-dinheiro/noticias/os-precos-dos-20-carros-suvs-mais-vendidos-do-pais/lista
-Honda HR-V
-Jeep Renegade
-Renault Duster
-Ford EcoSport
-Hyundai ix35
-Hyundai Tucson
-Chevrolet Tracker
-Mitsubish ASX
-Toyota SW4
- Mitsubish Outlander
-Kia Sportage
-Peugeot 2008
-Audi Q3
-Toyota RAV4
-Mitsubish Pajero
-Citroën Aircross
-Mercedes-Benz GLA
-Range Rover Evoque
+* Honda HR-V
+* Jeep Renegade
+* Renault Duster
+* Ford EcoSport
+* Hyundai ix35
+* Hyundai Tucson
+* Chevrolet Tracker
+* Mitsubish ASX
+* Toyota SW4
+* Mitsubish Outlander
+* Kia Sportage
+* Peugeot 2008
+* Audi Q3
+* Toyota RAV4
+* Mitsubish Pajero
+* Citroën Aircross
+* Mercedes-Benz GLA
+* Range Rover Evoque
 
 
 http://exame.abril.com.br/estilo-de-vida/noticias/os-melhores-suv-do-brasil-segundo-a-quatro-rodas
@@ -63,32 +63,52 @@ http://exame.abril.com.br/estilo-de-vida/noticias/os-melhores-suv-do-brasil-segu
 * JAC T6
 
 http://www.novasdodia.com.br/ranking-de-vendas-de-automoveis-2015-suvscrossovers/
-Ford ECOSPORT
-Renault Duster
-Hyundai Tucson
-Chevrolet Tracker
-Mitsubishi Pajero
-Lifan X60
-Chery TIGGO
-SUZUKI JIMMY
-Troller T4
-KIA SOUL
-SUZUKI SX4
-PEUGEOT 2008
-
+* Ford ECOSPORT
+* Renault Duster
+* Hyundai Tucson
+* Chevrolet Tracker
+* Mitsubishi Pajero
+* Lifan X60
+* Chery TIGGO
+* SUZUKI JIMMY
+* Troller T4
+* KIA SOUL
+* SUZUKI SX4
+* PEUGEOT 2008
 
 Referência para definir comparação entre modelos:
 http://g1.globo.com/carros/noticia/2015/07/guia-dos-suvs-compare-os-modelos-novos-e-os-mais-vendidos.html
-Chevrolet Tracker
-Ford EcoSport
-Jac T6
-Honda HR-V
-Jeep Renegade
-Peugeot 2008
-Renault Duster
-
+* Chevrolet Tracker
+* Ford EcoSport
+* Jac T6
+* Honda HR-V
+* Jeep Renegade
+* Peugeot 2008
+* Renault Duster
 
 ## Veículos Selecionados
-A partir da cruza destas várias fontes, foram selecionados os veículos mais relevantes para fazer parte do set de variáveis objetivas:
 
+A partir da cruza destas várias fontes, foram selecionados os veículos mais relevantes para fazer parte do set de variáveis objetivas: 
 
+| Montadora     | Modelo      |
+| ------------- | ----------- |
+| audi          | q3          |
+| chery         | tiggo       |
+| chevrolet     | tracker     |
+| citroën       | aircross    |
+| dodge         | journey     |
+| ford          | ecosport    |
+| honda         | hr-v        |
+| hyundai       | ix35        |
+| jac           | t6          |
+| jeep          | renegade    |
+| kia           | sportage    |
+| lifan         | x60         |
+| mercedes-benz | gla         |
+| mitsubishi    | pajero      |
+| peugeot       | 2008        |
+| range-rover   | evoque      |
+| renault       | duster      |
+| suzuki        | gran vitara |
+| toyota        | sw4         |
+| troller       | t4          |
