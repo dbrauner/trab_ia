@@ -86,6 +86,10 @@ http://g1.globo.com/carros/noticia/2015/07/guia-dos-suvs-compare-os-modelos-novo
 * Peugeot 2008
 * Renault Duster
 
+Referência de perfil de usuário:
+http://g1.globo.com/carros/noticia/2015/10/maioria-ve-carro-como-leva-e-traz-diz-estudo-sobre-perfis-de-compradores.html
+http://dinheirama.com/blog/2012/10/02/voce-compra-seu-carro-por-necessidade-status-ou-pelo-preco-ou-tudo-isso/
+
 ## Veículos Selecionados
 
 A partir da cruza destas várias fontes, foram selecionados os veículos mais relevantes para fazer parte do set de variáveis objetivas: 
